@@ -1,0 +1,1 @@
+# vim-snow-script-syntax
